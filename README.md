@@ -27,5 +27,15 @@ EFI 机型：iMac19,1
 |        无线 + 蓝牙 |  BCM94360CD（双频 1750M + 蓝牙 4.0）+ M.2_E 无线网卡  |
 ***
 
-参考[1] [xjn 博客](https://blog.xjn819.com)
+## CPU跑分
+![](./image/2.png)
+***
+
+## 显卡跑分
+![](./image/3.png)
+***
+
+
+参考[1] [xjn 博客](https://blog.xjn819.com) 
+
 参考[2] [黑果小兵博客](https://blog.daliansky.net)
